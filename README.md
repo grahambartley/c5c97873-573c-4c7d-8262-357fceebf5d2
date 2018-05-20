@@ -1,1 +1,0 @@
-Python helps with shopping!
